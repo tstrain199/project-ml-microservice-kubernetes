@@ -24,4 +24,4 @@ EXPOSE 80
 
 ## Step 5:
 # Run app.py at container launch
-ENTRYPOINT python app.py
+ENTRYPOINT ["python app.py"]
