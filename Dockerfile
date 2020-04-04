@@ -6,7 +6,7 @@ RUN apt-get update -y \
 
 ## Step 1:
 # Create a working directory
-ADD . /app
+COPY . /app
 WORKDIR /app
 
 ## Step 2:
