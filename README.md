@@ -28,7 +28,7 @@ To make a prediction, you have to open a separate tab or terminal window. In thi
 
 ## Files
 
-app.py - The flask application
-Dockerfile - Builds the Docker image
-Makefile - Sets up the environment and lint tests, installs dependencies
-requirements.txt - A list of dependencies to installs
+- app.py - The flask application
+- Dockerfile - Builds the Docker image
+- Makefile - Sets up the environment and lint tests, installs dependencies
+- requirements.txt - A list of dependencies to installs
